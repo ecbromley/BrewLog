@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This page is for you, the brewmaster.  Go ahead and edit it to add some details about yourself.
+Got this page from ben-holland.com.  Just getting started with homebrewing hard apple cider.
 
 ### Recommended Equipment
 
